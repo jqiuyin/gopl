@@ -16,3 +16,6 @@
 .vscode
 sorter/pkg
 sorter/bin
+
+*/bin
+*/pkg
